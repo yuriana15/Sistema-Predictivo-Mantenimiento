@@ -1,0 +1,9 @@
+# Secretos: nunca se suben a GitHub
+.streamlit/secrets.toml
+secrets.toml
+.env
+
+# Archivos temporales
+__pycache__/
+*.pyc
+.venv/
